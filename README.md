@@ -2,3 +2,5 @@
 This is my Data Science Course Project.
 
 IDS_2 Contains Exploratory Data Analysis
+
+Final contains the whole project.

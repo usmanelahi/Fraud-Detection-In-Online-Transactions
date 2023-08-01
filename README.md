@@ -1,6 +1,4 @@
 # Fraud-Detection-In-Online-Transactions
-This is my Data Science Course Project.
 
-IDS_2 Contains Exploratory Data Analysis
-
-Final contains the whole project.
+- IDS_2 contains the project till Exploratoty Data Analysis
+- Final file contains the whole project.
